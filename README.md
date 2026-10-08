@@ -32,7 +32,9 @@ The following tools were used for this project:
 This repository contains:
 
 - `README.md` - Provides information about the project
-- Two additional sample files - Examples of work and documents uploaded to GitHub
+- URL Links to files:
+- https://www.python.org/
+- https://excel.cloud.microsoft/
 
 ## How to Run or View This Project
 
